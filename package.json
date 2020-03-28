@@ -4,7 +4,7 @@
     "displayName": "DevZ - Back-end Pack",
     "description": "Pacote com extensões do VSCode recomendadas para os DevZs que trabalham com C# e back-end nas Squads",
     "version": "0.1.0",
-    "icon": "resources/logo-devz.jpg",
+    "icon": "resources/logo-devz.png",
     "engines": {
         "vscode": "^1.43.0"
     },
