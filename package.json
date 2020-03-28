@@ -4,49 +4,43 @@
     "displayName": "DevZ - Back-end Pack",
     "description": "Pacote com extensões do VSCode recomendadas para os DevZs que trabalham com C# e back-end nas Squads",
     "version": "0.0.1",
+    "icon": "resources/logo-devz.jpg",
     "engines": {
         "vscode": "^1.43.0"
     },
     "categories": [
         "Extension Packs"
     ],
+    "galleryBanner": {
+        "color": "#FF9100",
+        "theme": "dark"
+    },
+    "keywords": [
+        "Wiz Soluções",
+        "Wiz",
+        "DevZ",
+        "Back-End"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wizsolucoes/vscode-devz-back-end-pack"
+    },
+    "homepage": "https://github.com/wizsolucoes/vscode-devz-back-end-pack/blob/master/README.md",
     "extensionPack": [ 
-        "aaron-bond.better-comments", 
         "azsdktm.SecurityIntelliSense", 
-        "christian-kohler.path-intellisense", 
-        "CoenraadS.bracket-pair-colorizer",  
-        "docsmsft.docs-authoring-pack", 
-        "donjayamanne.githistory", 
-        "eamodio.gitlens", 
-        "EFanZh.graphviz-preview", 
-        "esbenp.prettier-vscode", 
         "fernandoescolar.vscode-solution-explorer", 
-        "formulahendry.dotnet", 
+        "formulahendry.dotnet",     
         "formulahendry.dotnet-test-explorer", 
         "jchannon.csharpextensions", 
-        "jebbs.plantuml", 
         "k--kato.docomment", 
-        "ms-azuretools.vscode-azureappservice", 
-        "ms-azuretools.vscode-azurefunctions", 
-        "ms-azuretools.vscode-azurestorage", 
-        "ms-azuretools.vscode-docker", 
-        "MS-CST-E.vscode-devskim", 
+        "ms-vscode.vscode-node-azure-pack", 
         "ms-dotnettools.csharp", 
-        "ms-vscode-remote.remote-ssh-edit", 
-        "ms-vscode-remote.vscode-remote-extensionpack", 
         "ms-vscode.azure-account", 
         "ms-vscode.azurecli", 
         "ms-vscode.powershell", 
         "ms-vscode.vs-keybindings", 
-        "ms-vscode.vscode-node-azure-pack", 
-        "ms-vsliveshare.vsliveshare-pack", 
         "rahulsahay.Csharp-ASPNETCore", 
         "ryanluker.vscode-coverage-gutters", 
-        "softwaredotcom.music-time", 
-        "softwaredotcom.swdc-vscode", 
-        "SonarSource.sonarlint-vscode", 
-        "streetsidesoftware.code-spell-checker", 
-        "VisualStudioExptTeam.vscodeintellicode", 
         "VisualStudioOnlineApplicationInsights.application-insights"
     ]
 }

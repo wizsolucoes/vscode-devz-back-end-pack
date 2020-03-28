@@ -1,9 +1,17 @@
 # Change Log
 
-All notable changes to the "devz-back-end-pack" extension pack will be documented in this file.
+Todas as alterações do "devz-back-end-pack" pacote de extensão deverão constar nesse documento.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [Histórico]
 
-- Initial release
+## [0.0.1] - 2020-03-27
+
+### Conteúdo
+- Versão inicial
+
+## [0.0.2] - 2020-03-28
+
+### Conteúdo
+- Deixamos apenas extensões relacionada ao trabalho do DevZ Back-End
