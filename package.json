@@ -1,9 +1,9 @@
 {
     "name": "devz-back-end-pack",
-    "publisher":"WizSolucoes",
+    "publisher": "WizSolucoes",
     "displayName": "DevZ - Back-end Pack",
     "description": "Pacote com extensões do VSCode recomendadas para os DevZs que trabalham com C# e back-end nas Squads",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "icon": "resources/logo-devz.jpg",
     "engines": {
         "vscode": "^1.43.0"
@@ -26,21 +26,21 @@
         "url": "https://github.com/wizsolucoes/vscode-devz-back-end-pack"
     },
     "homepage": "https://github.com/wizsolucoes/vscode-devz-back-end-pack/blob/master/README.md",
-    "extensionPack": [ 
-        "azsdktm.SecurityIntelliSense", 
-        "fernandoescolar.vscode-solution-explorer", 
-        "formulahendry.dotnet",     
-        "formulahendry.dotnet-test-explorer", 
-        "jchannon.csharpextensions", 
-        "k--kato.docomment", 
-        "ms-vscode.vscode-node-azure-pack", 
-        "ms-dotnettools.csharp", 
-        "ms-vscode.azure-account", 
-        "ms-vscode.azurecli", 
-        "ms-vscode.powershell", 
-        "ms-vscode.vs-keybindings", 
-        "rahulsahay.Csharp-ASPNETCore", 
-        "ryanluker.vscode-coverage-gutters", 
+    "extensionPack": [
+        "azsdktm.SecurityIntelliSense",
+        "fernandoescolar.vscode-solution-explorer",
+        "formulahendry.dotnet",
+        "formulahendry.dotnet-test-explorer",
+        "jchannon.csharpextensions",
+        "k--kato.docomment",
+        "ms-vscode.vscode-node-azure-pack",
+        "ms-dotnettools.csharp",
+        "ms-vscode.azure-account",
+        "ms-vscode.azurecli",
+        "ms-vscode.powershell",
+        "ms-vscode.vs-keybindings",
+        "rahulsahay.Csharp-ASPNETCore",
+        "ryanluker.vscode-coverage-gutters",
         "VisualStudioOnlineApplicationInsights.application-insights"
     ]
 }
