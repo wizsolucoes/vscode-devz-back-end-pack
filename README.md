@@ -19,6 +19,7 @@
 * [Security IntelliSense](https://marketplace.visualstudio.com/items?itemName=azsdktm.SecurityIntelliSense)
 * [Visual Studio Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings)
 * [vscode-solution-explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
+* [yagoluiz.sonar-dotnet-vscode](https://marketplace.visualstudio.com/items?itemName=yagoluiz.sonar-dotnet-vscode)
 
 ## Contribuições
 

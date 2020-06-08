@@ -41,6 +41,7 @@
         "ms-vscode.vs-keybindings",
         "rahulsahay.Csharp-ASPNETCore",
         "ryanluker.vscode-coverage-gutters",
-        "VisualStudioOnlineApplicationInsights.application-insights"
+        "VisualStudioOnlineApplicationInsights.application-insights",
+        "yagoluiz.sonar-dotnet-vscode"
     ]
 }
