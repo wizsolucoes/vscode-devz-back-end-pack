@@ -27,6 +27,7 @@
     },
     "homepage": "https://github.com/wizsolucoes/vscode-devz-back-end-pack/blob/master/README.md",
     "extensionPack": [
+        "WizSolucoes.devz-pack",
         "azsdktm.SecurityIntelliSense",
         "fernandoescolar.vscode-solution-explorer",
         "formulahendry.dotnet",
