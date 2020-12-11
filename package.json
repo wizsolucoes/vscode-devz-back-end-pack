@@ -40,9 +40,7 @@
         "ms-vscode.azurecli",
         "ms-vscode.powershell",
         "ms-vscode.vs-keybindings",
-        "rahulsahay.Csharp-ASPNETCore",
         "ryanluker.vscode-coverage-gutters",
         "VisualStudioOnlineApplicationInsights.application-insights",
-        "yagoluiz.sonar-dotnet-vscode"
     ]
 }
