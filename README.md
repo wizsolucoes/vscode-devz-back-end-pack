@@ -10,7 +10,6 @@
 * [Azure Application Insight](https://marketplace.visualstudio.com/items?itemName=VisualStudioOnlineApplicationInsights.application-insights)
 * [Azure CLI Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli)
 * [Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)
-* [ASP.NET Core Snippets](https://marketplace.visualstudio.com/items?itemName=rahulsahay.Csharp-ASPNETCore)
 * [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 * [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions)
 * [C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment)
@@ -20,7 +19,6 @@
 * [Security IntelliSense](https://marketplace.visualstudio.com/items?itemName=azsdktm.SecurityIntelliSense)
 * [Visual Studio Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings)
 * [vscode-solution-explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
-* [yagoluiz.sonar-dotnet-vscode](https://marketplace.visualstudio.com/items?itemName=yagoluiz.sonar-dotnet-vscode)
 
 ## Contribuições
 
