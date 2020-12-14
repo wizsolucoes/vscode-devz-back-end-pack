@@ -15,6 +15,7 @@
 * [C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment)
 * [Coverage Gutters](https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters)
 * [DevZ Pack](https://marketplace.visualstudio.com/items?itemName=WizSolucoes.devz-pack)
+* [OpenAPI (Swagger) Editor](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi)
 * [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.powershell)
 * [Security IntelliSense](https://marketplace.visualstudio.com/items?itemName=azsdktm.SecurityIntelliSense)
 * [Visual Studio Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings)

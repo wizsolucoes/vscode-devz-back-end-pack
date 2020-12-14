@@ -42,5 +42,6 @@
         "ms-vscode.vs-keybindings",
         "ryanluker.vscode-coverage-gutters",
         "VisualStudioOnlineApplicationInsights.application-insights",
+        "42Crunch.vscode-openapi"
     ]
 }
